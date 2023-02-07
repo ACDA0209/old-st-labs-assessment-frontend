@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {},
+  "editor.tabSize": 2,
+  "editor.insertSpaces": false,
+  "json.schemas": [],
+  "editor.indentSize": "tabSize",
+  "editor.detectIndentation": false
+}
